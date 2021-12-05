@@ -1,4 +1,36 @@
-### Hi there 👋
+## Who am I?
+:P
+
+## My profile
+Name: SooHyun Kim
+
+## Education
+- Undergraduate : 2018.03 - 2022.02
+  - Kwangwoon University, Seoul, Korea
+    - School of Computer and Information Engineering (Major: Computer Engineering)
+    - GPA: /4.5 (Major GPA: /4.5)
+
+- Graduate School, Master's course : 2022.03 - ?
+  - Kwangwoon University, Seoul, Korea
+    - Department of Computer Engineering
+
+## Teaching Experience
+- Spring 2020
+  - Tutor, Advanced C Programming, College of Software, Kwangwoon University
+- Summer 2020
+  - Tutor, C Programming, College of Software, Kwangwoon University
+- Winter 2020
+  - Tutor, Advanced C Programming, College of Software, Kwangwoon University
+- Spring 2021
+  - Tutor, Computational Thinking, College of Software, Kwangwoon University
+- Summer 2021
+  - Tutor, C Programming, College of Software, Kwangwoon University
+- Fall 2021
+  - Teaching assistance, Advanced C Programming School of Information Engineering, Kwangwoon University
+
+## Awards and Scholarships
+- National Science and Engineering Undergraudate Scholarship (Full-tuition), Ministry of Science ICT (Republic of Korea), Spring 2020 - Fall 2021 (4 semesters)
+- TOPCIT 1st award, Kwangwoon University, Fall 2021
 
 <!--
 **RapidWorkers/RapidWorkers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
