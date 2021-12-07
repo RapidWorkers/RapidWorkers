@@ -15,7 +15,7 @@ Name: SooHyun Kim
     - Department of Computer Engineering
 
 ## Teaching Experience
-- Spring 2020
+- Winter 2019
   - Tutor, Advanced C Programming, College of Software, Kwangwoon University
 - Summer 2020
   - Tutor, C Programming, College of Software, Kwangwoon University
