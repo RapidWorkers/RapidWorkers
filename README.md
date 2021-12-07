@@ -30,6 +30,10 @@ Name: SooHyun Kim
 
 ## Awards and Scholarships
 - National Science and Engineering Undergraudate Scholarship (Full-tuition), Ministry of Science ICT (Republic of Korea), Spring 2020 - Fall 2021 (4 semesters)
+- SW Ability Excellence Scholarship (B), Kwangwoon University, Fall 2018
+- SW Ability Excellence Scholarship (A), Kwangwoon University, Fall 2019
+- SW Ability Excellence Scholarship (S), Kwangwoon University, Fall 2020
+- SW Ability Excellence Scholarship (B), Kwangwoon University, Spring 2021
 - TOPCIT 1st award, Kwangwoon University, Fall 2021
 
 <!--
