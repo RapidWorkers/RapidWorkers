@@ -7,12 +7,15 @@ Name: SooHyun Kim
 ## Education
 - Undergraduate : 2018.03 - 2022.02
   - Kwangwoon University, Seoul, Korea
-    - School of Computer and Information Engineering (Major: Computer Engineering)
+    - School of Computer and Information Engineering (Major: Computer Engineering, ABEEK certified)
     - GPA: /4.5 (Major GPA: /4.5)
 
 - Graduate School, Master's course : 2022.03 - ?
   - Kwangwoon University, Seoul, Korea
     - Department of Computer Engineering
+
+## Research Experience
+- Not yet :(
 
 ## Teaching Experience
 - Winter 2019
@@ -35,6 +38,7 @@ Name: SooHyun Kim
 - SW Ability Excellence Scholarship (S), Kwangwoon University, Fall 2020
 - SW Ability Excellence Scholarship (B), Kwangwoon University, Spring 2021
 - TOPCIT 1st award, Kwangwoon University, Fall 2021
+- SW Ability Excellence Scholarship (A), Kwangwoon University, Fall 2021
 
 <!--
 **RapidWorkers/RapidWorkers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
