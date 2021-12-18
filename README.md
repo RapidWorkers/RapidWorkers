@@ -39,6 +39,7 @@ Name: SooHyun Kim
 - SW Ability Excellence Scholarship (B), Kwangwoon University, Spring 2021
 - TOPCIT 1st award, Kwangwoon University, Fall 2021
 - SW Ability Excellence Scholarship (A), Kwangwoon University, Fall 2021
+- TOPCIT ?rd award, Kwangwoon University, Winter 2021
 
 <!--
 **RapidWorkers/RapidWorkers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
