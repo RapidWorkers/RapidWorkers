@@ -8,7 +8,7 @@ Name: SooHyun Kim
 - Undergraduate : 2018.03 - 2022.02
   - Kwangwoon University, Seoul, Korea
     - School of Computer and Information Engineering (Major: Computer Engineering, ABEEK certified)
-    - GPA: 4.30/4.5 (Major GPA: 4.42/4.5)
+    - GPA: 4.30/4.5 (Major GPA: 4.44/4.5)
 
 - Graduate School, Master's course : 2022.03 - ?
   - Kwangwoon University, Seoul, Korea
