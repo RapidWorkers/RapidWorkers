@@ -32,14 +32,14 @@ Name: SooHyun Kim
   - Teaching assistance, Advanced C Programming School of Information Engineering, Kwangwoon University
 
 ## Awards and Scholarships
-- National Science and Engineering Undergraudate Scholarship (Full-tuition), Ministry of Science ICT (Republic of Korea), Spring 2020 - Fall 2021 (4 semesters)
+- National Science and Engineering Undergraudate Scholarship (Full-tuition), Ministry of Science & ICT (Republic of Korea), Spring 2020 - Fall 2021 (4 semesters)
 - SW Ability Excellence Scholarship (B), Kwangwoon University, Fall 2018
 - SW Ability Excellence Scholarship (A), Kwangwoon University, Fall 2019
 - SW Ability Excellence Scholarship (S), Kwangwoon University, Fall 2020
 - SW Ability Excellence Scholarship (B), Kwangwoon University, Spring 2021
 - TOPCIT 1st award, Kwangwoon University, Fall 2021
 - SW Ability Excellence Scholarship (A), Kwangwoon University, Fall 2021
-- TOPCIT ?rd award, Kwangwoon University, Winter 2021
+- TOPCIT 1st award, Kwangwoon University, Winter 2021
 
 <!--
 **RapidWorkers/RapidWorkers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
