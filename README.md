@@ -29,7 +29,7 @@ Name: SooHyun Kim
 - Summer 2021
   - Tutor, C Programming, College of Software, Kwangwoon University
 - Fall 2021
-  - Teaching assistance, Advanced C Programming School of Information Engineering, Kwangwoon University
+  - Teaching assistance, Advanced C Programming, School of Information Engineering, Kwangwoon University
 
 ## Awards and Scholarships
 - National Science and Engineering Undergraudate Scholarship (Full-tuition), Ministry of Science & ICT (Republic of Korea), Spring 2020 - Fall 2021 (4 semesters)
