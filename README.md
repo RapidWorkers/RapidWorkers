@@ -18,7 +18,7 @@ Name: SooHyun Kim
     - Department of Computer Engineering
 
 ## Research Experience
-- Not yet :(
+- TBD
 
 ## Teaching Experience
 - Tutors
@@ -42,9 +42,10 @@ Name: SooHyun Kim
     - Digital Logic Circuit 1, School of Computer and Information Engineering, Kwangwoon University
     - Basic Computer Engineering Lab 1, School of Computer and Information Engineering, Kwangwoon University
   - Fall 2022
-    - TBD
+    - Basic Computer Engineering Lab 2, School of Computer and Information Engineering, Kwangwoon University
   - Spring 2023
-    - TBD
+    - Digital Logic Circuit 1, School of Computer and Information Engineering, Kwangwoon University
+    - Basic Computer Engineering Lab 1, School of Computer and Information Engineering, Kwangwoon University
   - Fall 2023
     - TBD
 
